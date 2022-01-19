@@ -21,6 +21,7 @@
 /*
 
 - If the root is null, return false.
+- If the root’s value is equal to the target sum and the root has no children, return true.
 
 
 */
