@@ -22,6 +22,7 @@
 
 - If the root is null, return false.
 - If the root’s value is equal to the target sum and the root has no children, return true.
+- If the root’s value is equal to the target sum and the root has children, recursively call the function on the left and right subtrees.
 
 
 */
